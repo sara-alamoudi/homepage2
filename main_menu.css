@@ -298,6 +298,7 @@ color: black;
 
 .list .btn.btn-primary:focus {
     background-color: #2e4a8a;
+     border-color: #2e4a8a;
     color: #ebebeb;
     box-shadow: none;
 }
